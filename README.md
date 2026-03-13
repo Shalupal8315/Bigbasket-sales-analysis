@@ -1,3 +1,4 @@
+<img width="1406" height="812" alt="Screenshot 2026-03-13 071856" src="https://github.com/user-attachments/assets/e2a06af8-0693-4cae-a663-216eb94f8730" />
 # BigBasket Sales Data Analysis & Dashboard
 
 ## Project Overview
